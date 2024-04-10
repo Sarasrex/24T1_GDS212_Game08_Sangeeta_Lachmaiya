@@ -5144,7 +5144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatSpeed: 1
-  floatHeight: 1
+  floatHeight: 0.5
 --- !u!1 &722046059
 GameObject:
   m_ObjectHideFlags: 0
