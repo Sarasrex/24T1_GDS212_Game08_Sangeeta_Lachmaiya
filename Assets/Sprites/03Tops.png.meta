@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 3dfdfefc66dc1124a9119e6968318f9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03Tops_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad88fef6f7e5f9e4d97402da4f68f762
+      internalID: 1947472240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 409
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1162a00e6c00419a5360634e9bd4a
+      internalID: -1238972491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e274e3fa410fae4a8c5dc9759f02649
+      internalID: -980204450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 411
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9f571d0a281b42b6eef4a2d0d96fd
+      internalID: 356551481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 423
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5457f9c0f7b74291a88a9f01ce79e
+      internalID: 1081244114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba0a363e22a6d141a49b3cb697e6ee1
+      internalID: -1854476318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e654f0506b89d049a2dfa9bc70bfeab
+      internalID: -752972975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 369
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52facbfd1ec88f4787eb52b2dad2116
+      internalID: -574042641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 369
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02fbb89bd6a9c48940cb1cf9e0b265
+      internalID: 1947866504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 369
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97e62b3030727439c9c8953fbe1c5e
+      internalID: 1708672092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 369
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6669b8af90481c4f86488bbdf4738a7
+      internalID: -1449070758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 370
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58073821c1906954c9a737d9ac6ee564
+      internalID: 1318095403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 368
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f2df1e8f48f44dab1fdd5d9309576
+      internalID: 446265911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 230
+        width: 53
+        height: 103
+      alignment: 9
+      pivot: {x: 0.63272023, y: 0.8655668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2b36197b79f140896414fce0bd63b
+      internalID: -259705072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 280
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48438594, y: 0.5689621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedff239123664744aa9a56cb10ca6c6
+      internalID: 2085970616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 293
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.38506317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682ca3ba415abd418d4fd531fb06e96
+      internalID: -1628542703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 305
+        width: 73
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5283408, y: 0.42476863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374864b37649d64883f6a8a16c5a971
+      internalID: -37769269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 218
+        width: 53
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48438594, y: 0.525333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59c5d1afe9a1874fa53c4d00f705e3c
+      internalID: -1711964467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 212
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4735893, y: 0.6103397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c3f0d296c8c24aa9c3f2871927b39
+      internalID: -484149894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 247
+        width: 73
+        height: 33
+      alignment: 9
+      pivot: {x: 0.539677, y: 0.3996915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660a21f96a91b842af6de3e221bd158
+      internalID: -1659045731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 180
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48029655, y: 0.4269813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daca41afc0ee9246b24cd341f433bda
+      internalID: 1911214475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 134
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5331021, y: 0.31745282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd5598b23243a44ab8ab8c23077471
+      internalID: -837706011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 140
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd4b28fe14150479c7dc8171643d8a
+      internalID: -1535710916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 127
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf684c47c70464683f4d54c768a4fa
+      internalID: 1837425749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03Tops_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 95
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d2c9e3b9ce9b499be3cfc1e949bba
+      internalID: 1216155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2021d289d30b1c34e8d5056f5aa85716
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      03Tops_0: 1947472240
+      03Tops_1: -1271678540
+      03Tops_10: 1708672092
+      03Tops_11: -1449070758
+      03Tops_12: 1318095403
+      03Tops_13: 446265911
+      03Tops_14: -259705072
+      03Tops_15: 2085970616
+      03Tops_16: -1628542703
+      03Tops_17: -37769269
+      03Tops_18: -1711964467
+      03Tops_19: -484149894
+      03Tops_2: -1238972491
+      03Tops_20: -1659045731
+      03Tops_21: 1911214475
+      03Tops_22: -837706011
+      03Tops_23: -1535710916
+      03Tops_24: 1837425749
+      03Tops_25: 1216155862
+      03Tops_3: -980204450
+      03Tops_4: 356551481
+      03Tops_5: 1081244114
+      03Tops_6: -1854476318
+      03Tops_7: -752972975
+      03Tops_8: -574042641
+      03Tops_9: 1947866504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

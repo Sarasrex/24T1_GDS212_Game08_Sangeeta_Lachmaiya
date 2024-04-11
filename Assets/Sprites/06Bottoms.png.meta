@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: d1ea9d6cdc1dd4e45a061fe885fbc552
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 06Bottoms_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 422
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2eec6d4f226ad4ea7bff0c280f98df
+      internalID: 1880357857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 419
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19002099041bf478c6edf903e71af6
+      internalID: -1522857416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 414
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6cd51a47806749b3ff63e320a9180
+      internalID: -1702508811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 335
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5417162, y: 0.4724684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1ebc8490624fc41822add5c62866ce
+      internalID: 23831950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5417162, y: 0.45870283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094de19257c35f4d9c5717dae72488b
+      internalID: 792107856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 332
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.54767513, y: 0.4621436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f85ddb585a6649b7d4fb068cec20b
+      internalID: -1635840986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 324
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a777b998a83e41468a7ff1cfc08cea1
+      internalID: -953935310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 325
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652441adbac71514a8485033ec901a80
+      internalID: 1726662001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 325
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10eb4f75eb8f7546b000e6e212e1394
+      internalID: -1437990854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 234
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505846559e8edfa45a710d664dff950a
+      internalID: 1497939613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 234
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0302af4944a69b8468ea44aa7b33aa0d
+      internalID: -578442995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 235
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467057c8bb91d624d9ef9eb1a8a54c53
+      internalID: 1669381996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 233
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ceda3e1243e39458a9659c255f0704
+      internalID: 387354278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 234
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99ae52f2a9a7c541aee3a86ff82d263
+      internalID: -943631021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 235
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef364213d7def54ca9d32dc63ceda44
+      internalID: 378217250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 53
+        height: 74
+      alignment: 9
+      pivot: {x: 0.569705, y: 0.47535068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f0f37be045d846860c2e41dedbf5a
+      internalID: 879909946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 123
+        width: 53
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5671073, y: 0.47163758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba994faf444421419aafad659f0d248
+      internalID: 1421577257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 121
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54423946, y: 0.4283091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c3742286dc9e43854818261ae26fe
+      internalID: 659180430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 122
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.50073284, y: 0.41531882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5180f4a7baed5c4284225e255053750
+      internalID: 233025137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 26
+        width: 32
+        height: 69
+      alignment: 9
+      pivot: {x: 0.53785276, y: 0.46927908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d6b1ac4123db478b4a983c0e363f2
+      internalID: 186309232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06Bottoms_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 25
+        width: 32
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5473161, y: 0.47805613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53322e2410d94c42be383b98b3de0e4
+      internalID: -1643217024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ea1d607a183ca3458b679aaeab3b891
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      06Bottoms_0: 1880357857
+      06Bottoms_1: -1522857416
+      06Bottoms_10: -578442995
+      06Bottoms_11: 1669381996
+      06Bottoms_12: 387354278
+      06Bottoms_13: -943631021
+      06Bottoms_14: 378217250
+      06Bottoms_15: 879909946
+      06Bottoms_16: 1421577257
+      06Bottoms_17: 659180430
+      06Bottoms_18: 233025137
+      06Bottoms_19: 186309232
+      06Bottoms_2: -1702508811
+      06Bottoms_20: -1643217024
+      06Bottoms_3: 23831950
+      06Bottoms_4: 792107856
+      06Bottoms_5: -1635840986
+      06Bottoms_6: -953935310
+      06Bottoms_7: 1726662001
+      06Bottoms_8: -1437990854
+      06Bottoms_9: 1497939613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

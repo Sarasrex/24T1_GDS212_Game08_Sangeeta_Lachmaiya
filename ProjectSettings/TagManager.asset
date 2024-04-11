@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 4100086767
     locked: 0
+  - name: MiddleBackLayer
+    uniqueID: 1882160437
+    locked: 0
   - name: MiddleLayer
     uniqueID: 452959057
     locked: 0
